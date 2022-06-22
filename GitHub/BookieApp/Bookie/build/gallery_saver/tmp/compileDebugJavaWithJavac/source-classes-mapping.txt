@@ -1,0 +1,2 @@
+carnegietechnologies/gallery_saver/BuildConfig.java
+ carnegietechnologies.gallery_saver.BuildConfig
